@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+
+target 'LYLearn' do
+
+pod 'YYText'
+pod 'BarrageRenderer'
+pod "TTGTagCollectionView"
+pod 'Masonry'
+end

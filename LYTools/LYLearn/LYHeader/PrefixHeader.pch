@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  LYLearn
+//
+//  Created by YangChang on 2020/1/3.
+//  Copyright © 2020 liuyang. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "LYLearn.h"
+#import "YYText.h"
+#import "LYCategroy.h"
+#import "Masonry.h"
+#endif /* PrefixHeader_pch */
